@@ -8,5 +8,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I learn how to code from <a href="https://codecademy.com">Codecademy</a>
 - Social Media: <br>
- <img src="/facebook.ico" height="20px" width="20px"> <a href="https://www.facebook.com/samuelcodez2009/">Facebook</a>
+ <a href="https://www.facebook.com/samuelcodez2009/"><img src="/facebook.ico" height="20px" width="20px"> Facebook</a>
 
