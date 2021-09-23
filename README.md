@@ -7,6 +7,6 @@
 <br> <img src="/discord.ico" height="20px" width="20px"> Discord: <code>SamuelCodez#0001</code>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I learn how to code from <a href="https://codecademy.com">Codecademy</a>
-- 🎴 Social Media: 
-- <img src="/facobook.ico"> <a href="https://www.facebook.com/samuelcodez2009/">Facebook</a>
+- Social Media: <br>
+ <img src="/facebook.ico" height="20px" width="20px"> <a href="https://www.facebook.com/samuelcodez2009/">Facebook</a>
 
