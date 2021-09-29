@@ -27,5 +27,5 @@
 </a>
 <br><br>
  <a href="https://github.com/SamuelCodez">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCodez">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelCodez&layout=compact">
  </a>
