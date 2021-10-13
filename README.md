@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on <a href="https://github.com/Tynxen/TynxenServer">Tynxen/TynxenServer</a> (You might not be able to see this repository as it's private.)
+- 🔭 I’m currently working on <a href="https://github.com/Tynxen">Tynxen/AdminDashboard</a>
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: 
 <br> <img src="/discord.ico" height="20px" width="20px"> Discord: <code>SamuelCodez#0001</code>
