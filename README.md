@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on <a href="https://github.com/ScarOrg">ScarOrg</a> / <a href="https://github.com/ScarOrg">Scar</a>
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: 
-<br> <img src="/discord.ico" height="20px" width="20px"> Discord: <code>SamuelCodez#0001</code>
+<br> <img src="/discord.ico" height="20px" width="20px"> Discord: <code>SamuelCodez#7737</code>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I learn how to code from <a href="https://codecademy.com">Codecademy</a>
 - Social Media: <br>
