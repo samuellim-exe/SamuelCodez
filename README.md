@@ -1,6 +1,8 @@
-<code>
+```js
 let me;
 
  me.name = "Samuel Lim"
  me.
-</code>
+ 
+ module.exports = me;
+```
